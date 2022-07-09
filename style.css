@@ -1,0 +1,25 @@
+
+.card-header{
+    background:black;
+    color:whitesmoke;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 1px;
+    
+}
+.card-body{
+    background:linear-gradient(45deg,white, black);
+    color:white;
+    text-align: center;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.btn {
+    color: whitesmoke;
+    background: black;
+}
+/* 
+.btn:hover {
+    background: grey;
+} */
